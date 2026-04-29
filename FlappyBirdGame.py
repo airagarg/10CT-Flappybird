@@ -5,7 +5,7 @@ import random
 # Initiates PyGame module
 pygame.init()
 
-
+#text
 # Set screen dimensions
 screen_width = 800
 screen_height = 900
